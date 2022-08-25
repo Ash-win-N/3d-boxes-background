@@ -1,5 +1,5 @@
 <h1 align="center">3d-boxes-background</h1><br>
-<br>
+<p align="center">
 Live preview: <a href="https://ash-win-n.github.io/3d-boxes-background/">3d-boxes and background</a></p><br>
 
 <p align="center">
